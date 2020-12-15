@@ -1,0 +1,4 @@
+include ':myapplication'
+include ':jiguang'
+include ':app'
+rootProject.name = "jiguang"
